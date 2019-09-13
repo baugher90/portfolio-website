@@ -1137,9 +1137,9 @@ input, select, textarea {
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			/* background-image: none; * My addition */
 			background-image: url("../../images/bg.jpg");
-			background-position: center;
-			background-size: cover;
-			background-repeat: no-repeat;
+			background-position: center, center;
+			/* background-size: cover; */
+			background-repeat: no-repeat, repeat;
 			z-index: 1;
 		}
 
