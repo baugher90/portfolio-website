@@ -19,7 +19,7 @@
     q.getContext('2d').fillStyle='#323538';
     letters.map(function(y_pos, index){
       // text = String.fromCharCode(3e4+Math.random()*33);
-      str = ' Full-Stack Developer';
+      str = ' Hire me...';
       text = String(str.charAt(i));
       x_pos = index * 150;
       q.getContext('2d').fillText(text, x_pos, y_pos);
