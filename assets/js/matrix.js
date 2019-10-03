@@ -19,7 +19,7 @@
     q.getContext('2d').fillStyle='#323538';
     letters.map(function(y_pos, index){
       // text = String.fromCharCode(3e4+Math.random()*33);
-      str = ' Hire me...';
+      str = ' A full-stack developer has all the keys to the house – there is no door that you cannot open. It provides an unparalleled freedom to simultaneously work on front-end and back-end development and evaluate the capabilities and potential of your website in real-time without having to wait for another developer to review if what you’re desiring is possible or not.';
       text = String(str.charAt(i));
       x_pos = index * 150;
       q.getContext('2d').fillText(text, x_pos, y_pos);
