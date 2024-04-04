@@ -3417,6 +3417,7 @@ ul.feature-icons li:nth-child(2) {
 }
 
 #wrapper > section.intro {
+  margin-top: 0rem;
   align-items: center;
 }
 
