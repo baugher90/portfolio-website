@@ -3969,4 +3969,26 @@ canvas {
       width: 100%;
     }
   }
+
+  /* profile-image css */
+
+  
+  .avatar-cont {
+    width: 100%;
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #profile-image {
+    width: 80%;
+    height: 80%;
+  }
+
+  @media screen and (max-width: 1152px){
+    #profile-image {
+      display: none;
+    }
+  }
 /*end*/
