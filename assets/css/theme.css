@@ -1,0 +1,46 @@
+:root {
+    /* Primary colors */
+    --primary-color: #007bff; /* Default primary color */
+    --primary-color-dark: #0056b3; /* Darker shade of primary color */
+    
+    /* Secondary colors */
+    --secondary-color: #6c757d; /* Default secondary color */
+    
+    /* Accent colors */
+    --accent-color: #ffc107; /* Default accent color */
+    --accent-color-2: #f8d879; /* Default accent color */
+    
+    /* Background colors */
+    --background-color: #f8f9fa; /* Default background color */
+    --background-dark-color: #343a40; /* Darker shade of background color */
+    
+    /* Text colors */
+    --text-color: #212529; /* Default text color */
+    --text-light-color: #fff; /* Light text color */
+    
+    /* Border colors */
+    --border-color: #ced4da; /* Default border color */
+
+    /* Button colors */
+    --button-color: #007bff; /* Default button color */
+    --button-hover-color: #81baf7; /* Hover button color */
+}
+
+
+
+/* Example of how to use theme in main */
+/* styles.css */
+
+/* body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.button {
+    background-color: var(--primary-color);
+    color: var(--text-light-color);
+}
+
+.card {
+    border: 1px solid var(--border-color);
+} */
