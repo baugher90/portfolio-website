@@ -3665,9 +3665,9 @@ ul.feature-icons li:nth-child(2) {
     background-size: 40rem auto;
   }
 
-  #wrapper > section > header > * {
+  /* #wrapper > section > header > * {
     max-width: 25rem;
-  }
+  } */
 
   #wrapper > section > header > :last-child {
     margin-bottom: 0;
@@ -3967,6 +3967,28 @@ canvas {
   @media screen and (max-width: 1152px) {
     #particles-js {
       width: 100%;
+    }
+  }
+
+  /* profile-image css */
+
+  
+  .avatar-cont {
+    width: 100%;
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #profile-image {
+    width: 80%;
+    height: 80%;
+  }
+
+  @media screen and (max-width: 1152px){
+    #profile-image {
+      display: none;
     }
   }
 /*end*/
