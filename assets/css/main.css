@@ -3665,9 +3665,9 @@ ul.feature-icons li:nth-child(2) {
     background-size: 40rem auto;
   }
 
-  #wrapper > section > header > * {
+  /* #wrapper > section > header > * {
     max-width: 25rem;
-  }
+  } */
 
   #wrapper > section > header > :last-child {
     margin-bottom: 0;
