@@ -1,1 +1,1 @@
-POrtfolio Website for Ethan Baugehr
+Portfolio Website for Ethan Baugehr
